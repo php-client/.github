@@ -2,7 +2,7 @@
 
 ### In development 
 
-(Part of repos can be private):
+(Some repositories may be kept private during development)
 
 - Tailscale
 - Keenetic
