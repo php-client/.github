@@ -4,10 +4,10 @@
 
 (Some repositories may be kept private during development)
 
-- Tailscale
-- Keenetic
-- Syncthing
+- [Tailscale](https://tailscale.com/)
+- [Keenetic](https://keenetic.com/)
+- [Syncthing](https://syncthing.net/)
 
 ### Planned
-- Netbird
-- Outline
+- [Netbird](https://netbird.io/)
+- [Outline](https://getoutline.org/)
