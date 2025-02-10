@@ -7,6 +7,7 @@
 - [Tailscale](https://tailscale.com/)
 - [Keenetic](https://keenetic.com/)
 - [Syncthing](https://syncthing.net/)
+- [Ollama](https://ollama.com/)
 
 ### Planned
 - [Netbird](https://netbird.io/)
