@@ -10,5 +10,8 @@
 - [Ollama](https://ollama.com/)
 
 ### Planned
+- [OpenAI](https://platform.openai.com/)
+- [LMStusio](https://lmstudio.ai/)
 - [Netbird](https://netbird.io/)
 - [Outline](https://getoutline.org/)
+- [AdGuard](https://adguard.com/ru/adguard-home/overview.html)
